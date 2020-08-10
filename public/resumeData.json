@@ -1,0 +1,114 @@
+{
+  "main": {
+    "name":"Viser Solar",
+    "description":"Bana raha hai abhi",
+    "image":"profilepic.jpg",
+    "bio":"Ban raha hai",
+    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
+    "email": "youremailhere@gmail.com",
+    "phone": "555-555-5555",
+    "github":"https://github.com/nordicgiant2/react-nice-resume",
+    "project":"https://github.com/nordicgiant2/react-nice-resume",
+    "address":{
+      "street":"(Your Street)",
+      "city":"(Your City)",
+      "state":"(Your State)",
+      "zip": "(Your Zip/Postal Code)"
+    },
+    "website": "http://www.timbakerdev.com",
+    "resumedownload":"http://timbakerdev.com",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"https://github.com/nordicgiant2/react-nice-resume",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"twitter",
+        "url":"http://twitter.com",
+        "className":"fa fa-twitter"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/tim-baker-8420009a/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"http://instagram.com/tbaker_x",
+        "className":"fa fa-instagram"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "education":[
+      {
+        "school":"An",
+        "degree":"An off-grid",
+        "graduated":"solar power system makes the grid system obsolete which ensures autonomy from a utility.  Use of batteries which stores excess solar power ensures that the system provides uninterrupted power supply to the house with no power fluctuations. Most household appliances such as fans, televisions, computers, air-conditioners, refrigerators, water pumps work efficiently with this system.",
+        "description":"The first step towards a cleaner, greener tomorrow begins with installing solar rooftops at your homes. As every drop makes an ocean, every solar installation saves the planet! Save money and save the Earth.",
+        "titleImg":"RESIDENTIAL.jpg"
+      },
+      {
+        "school":"TS",
+        "degree":"On-grid",
+        "graduated":"Opting for an on-grid solar power system is considerably dependent on your location and the local utility grid. Being grid-tied is economical as it requires minimal battery and other equipment. On average, a customer saves substantial amounts of money by being connected to the electricity grid as the process of Net-Metering ensures that the import and export of electricity is determined.",
+        "description":"",
+        "graduated1":"Using a Net-Meter, the electricity that is imported from the grid and exported back to the grid is determined. The net-meter shows the net amount of power used by a particular establishment. Through this process of Net-Metering, you can build credit or cash out the excess energy accumulated.",
+        "graduated2":"Once your application for a new bi-directional is approved by the local utility, a system is set up which accounts for 100% or less on a residential customer’s monthly usage and up to 50% on a commercial customer’s monthly usage."
+      }
+    ],
+    "work":[
+      {
+        "company":"ABC",
+        "title":" ",
+        "years":"March 2010 - Present",
+        "description":""
+      },
+      {
+        "company":"ABC",
+        "title":"",
+        "years":"",
+        "description":""
+      }
+    ],
+    "skills":[
+      
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Canadian Wanderlust",
+        "category":"My Travel Blog for my post-university travels",
+        "image":"canadian-wanderlust.jpg",
+        "url":"https://www.canadianwanderlust.com"
+      },
+      {
+        "title":"Fury Fighting Gear",
+        "category":"(offline now) A fighting gear company I started",
+        "image":"fury-fighting-gear.jpg",
+        "url":"http://www.timbakerdev.com"
+      },
+      {
+        "title":"Original Thai Food",
+        "category":"Website I built for a restaurant I like in Thailand",
+        "image":"original-thai-food.jpg",
+        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+      },
+      {
+        "title":"Resume Website",
+        "category":"A React based resume website template",
+        "image":"resume-website.jpg",
+        "url":"http://www.timbakerdev.com"
+      },
+      {
+        "title":"Smirkspace",
+        "category":"(MVP Only) A React and Meteor based chat University project.",
+        "image":"smirkspace.jpg",
+        "url":"http://www.smirkspace.com"
+      }
+    ]
+  }
+}
